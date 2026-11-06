@@ -66,12 +66,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=samxex&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </p>
 
-### 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samxex/samxex/output/snake.svg" alt="Contribution snake" />
-</p>
-
 ### 📫 Contact
 
 <p align="center">
