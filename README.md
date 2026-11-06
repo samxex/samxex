@@ -1,12 +1,19 @@
 <!-- Animated gold banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a2c0a,100:D4AF37&height=200&section=header&text=S%20A%20M&fontSize=70&fontColor=F5E6B8&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a2c0a,100:D4AF37&height=200&section=header&text=Samo7aa&fontSize=70&fontColor=F5E6B8&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=20" />
 </p>
 
 <!-- Typing effect -->
 <p align="center">
   <a href="https://github.com/samxex">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Discord+Bots+%E2%80%A2+Web+Apps+%E2%80%A2+Dashboards;Building+real+products%2C+end+to+end;%D8%A8%D9%86%D8%A8%D9%86%D9%8A+%D8%AD%D8%A7%D8%AC%D8%A7%D8%AA+%D8%AD%D9%82%D9%8A%D9%82%D9%8A%D8%A9+%D8%A8%D8%AA%D8%B4%D8%AA%D8%BA%D9%84+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Discord+Bots+%E2%80%A2+Web+Apps+%E2%80%A2+Dashboards;Building+real+products%2C+end+to+end" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Live Discord status -->
+<p align="center">
+  <a href="https://discord.com/users/727848228824940634">
+    <img src="https://lanyard.cnrad.dev/api/727848228824940634?theme=dark&bg=0d0d0d&borderRadius=16px&animated=true&hideDiscrim=true&idleMessage=Building%20something%20new" alt="Discord status" />
   </a>
 </p>
 
@@ -18,24 +25,24 @@
 
 ### 👋 About me
 
-- 🛠️ I build complete products — from the **database** to the **API** to the **UI** people actually click.
-- 🤖 Deep into **Discord bots**: ticket systems, marketplaces, automatic payments, admin dashboards.
-- 🌐 Web apps with **Node.js + Express**, clean dashboards, and mobile-friendly pages.
-- 🇪🇬 من مصر — بحب أبني حاجات بتشتغل فعلًا وبيستخدمها ناس حقيقيين.
+- 🛠️ I build complete products — from the **database** to the **API** to the **interface** people use every day.
+- 🤖 Specialized in **Discord systems**: ticket platforms, marketplaces, automated payments and admin dashboards.
+- 🌐 Web applications with **Node.js + Express**, clean dashboards and mobile-friendly pages.
+- 🇪🇬 مطوّر من مصر، أعمل على بناء أنظمة متكاملة وعملية تخدم مستخدمين حقيقيين.
 
 ### 🚧 What I'm building
 
-> The code is **private** — but you can see them live:
+> The source code is **private** — but you can see them live:
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🏪 **[Serial Store](https://discord.gg/UrqtGGe8G)** | A ticket-based Discord marketplace: seller stores, product catalog, automatic payments, coupons, and a full admin website | Discord.js · Express · MongoDB |
-| 🦷 **[DentalFlow](https://dentalflow-sooty.vercel.app/)** | A management system for a dental clinic | Node.js · Web |
+| 🏪 **[Serial Store](https://discord.gg/UrqtGGe8G)** | A ticket-based Discord marketplace: seller stores, product catalog, automated payments, coupons and a full admin website | Discord.js · Express · MongoDB |
+| 🦷 **[DentalFlow](https://dentalflow-sooty.vercel.app/)** | A management system for dental clinics | Node.js · Web |
 
 ### 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,discordjs,mongodb,sqlite,html,css,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,discordjs,mongodb,sqlite,html,css,git,github,vscode,vercel&theme=dark" />
 </p>
 
 ### 📊 GitHub stats
@@ -53,11 +60,24 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samxex&bg_color=0d0d0d&color=F5E6B8&line=D4AF37&point=F5E6B8&area=true&area_color=D4AF37&hide_border=true" />
 </p>
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samxex&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</p>
+
+### 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samxex/samxex/output/snake.svg" alt="Contribution snake" />
+</p>
+
 ### 📫 Contact
 
 <p align="center">
   <a href="https://discord.com/users/727848228824940634"><img src="https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=D4AF37" /></a>
   <a href="https://discord.gg/UrqtGGe8G"><img src="https://img.shields.io/badge/Serial%20Store-0d0d0d?style=for-the-badge&logo=discord&logoColor=D4AF37" /></a>
+  <a href="https://dentalflow-sooty.vercel.app/"><img src="https://img.shields.io/badge/DentalFlow-0d0d0d?style=for-the-badge&logo=vercel&logoColor=D4AF37" /></a>
 </p>
 
 <p align="center">
