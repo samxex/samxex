@@ -48,8 +48,8 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=samxex&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=D4AF37&text_color=F5E6B8" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samxex&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=F5E6B8" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samxex&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=D4AF37&text_color=F5E6B8" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samxex&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=F5E6B8" />
 </p>
 
 <p align="center">
@@ -57,13 +57,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samxex&bg_color=0d0d0d&color=F5E6B8&line=D4AF37&point=F5E6B8&area=true&area_color=D4AF37&hide_border=true" />
+  <img src="https://github-readme-activity-graph-kohl-eight.vercel.app/graph?username=samxex&bg_color=0d0d0d&color=F5E6B8&line=D4AF37&point=F5E6B8&area=true&area_color=D4AF37&hide_border=true" />
 </p>
 
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samxex&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy-dun-kappa-87.vercel.app/?username=samxex&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </p>
 
 ### 📫 Contact
